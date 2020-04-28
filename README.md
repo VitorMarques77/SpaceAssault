@@ -8,5 +8,7 @@ O jogo conta com um menu inicial possibilitando inicia-lo ou sair do jogo. Cont√
 Assets e m√∫sicas foram retirados dos seguintes sites
 
 https://www.kenney.nl/assets
+
 https://assetstore.unity.com/packages/audio/music/electronic/8-bit-music-free-136967
+
 https://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles
