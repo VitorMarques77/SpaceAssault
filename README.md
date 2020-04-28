@@ -3,7 +3,7 @@
 Criação de um jogo 2D space shooter com o intuito de colocar em pratica conceitos de singleton pattern, aplicação de coroutines,
 criação de UI e animações, gerenciamento de cenas, etc.
 
-O jogo conta com um menu inicial possibilitando inicia-lo ou sair do jogo. Contém mecanicas de power ups para progresso.
+O jogo conta com um menu possibilitando inicia-lo ou sair do jogo. Contém mecanicas de power ups para progresso.
 
 Assets , músicas e SFX foram retirados dos seguintes sites
 
