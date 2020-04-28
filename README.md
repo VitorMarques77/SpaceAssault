@@ -5,7 +5,7 @@ criação de UI e animações, gerenciamento de cenas, etc.
 
 O jogo conta com um menu inicial possibilitando inicia-lo ou sair do jogo. Contém mecanicas de power ups para progresso.
 
-Assets e músicas foram retirados dos seguintes sites
+Assets , músicas e SFX foram retirados dos seguintes sites
 
 https://www.kenney.nl/assets
 
